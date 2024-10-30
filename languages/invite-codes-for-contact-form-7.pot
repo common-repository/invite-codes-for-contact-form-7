@@ -1,0 +1,597 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CF7 Invite Codes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-23 04:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: cf7-invite-codes"
+
+#: includes/admin.php:215
+msgid "&laquo;"
+msgstr ""
+
+#: includes/admin.php:216
+msgid "&raquo;"
+msgstr ""
+
+#: includes/admin.php:163 includes/export.php:120
+msgid "Actions"
+msgstr ""
+
+#. placeholder shortcode
+#: includes/admin.php:459
+#, php-format
+msgid ""
+"Add an invite code field to your Contact Form 7 form by using the shortcode "
+"%s."
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds invite codes functionality to Contact Form 7."
+msgstr ""
+
+#: includes/export.php:229
+msgid "All export files deleted successfully."
+msgstr ""
+
+#: includes/admin.php:115
+msgid "All invite codes successfully deleted."
+msgstr ""
+
+#: includes/export.php:148
+msgid "Are you sure you want to delete all export files?"
+msgstr ""
+
+#: includes/admin.php:226
+msgid "Are you sure you want to delete all invite codes?"
+msgstr ""
+
+#: includes/export.php:137
+msgid "Are you sure you want to delete this file?"
+msgstr ""
+
+#: includes/admin.php:179
+msgid "Are you sure you want to delete this invite code?"
+msgstr ""
+
+#: includes/admin.php:434
+msgid "Backend Usage (Admin Interface)"
+msgstr ""
+
+#: includes/admin.php:332
+msgid "Begin With A Letter"
+msgstr ""
+
+#: includes/settings.php:60
+msgid "Case Sensitive Invite Codes"
+msgstr ""
+
+#: includes/admin.php:272
+msgid "Click the button below to export the codes to a CSV file."
+msgstr ""
+
+#: includes/admin.php:146 includes/admin.php:436
+msgid "Codes"
+msgstr ""
+
+#: includes/admin.php:149 includes/admin.php:284 includes/admin.php:445
+msgid "Codes Generator"
+msgstr ""
+
+#: includes/admin.php:404
+msgid "Copy Codes to Clipboard"
+msgstr ""
+
+#: includes/admin.php:288
+msgid "Copy codes to clipboard and import them via Import tab"
+msgstr ""
+
+#: includes/export.php:119
+msgid "Creation Date"
+msgstr ""
+
+#: includes/settings.php:72
+msgid ""
+"Customize the validation messages displayed on the front-end of your forms."
+msgstr ""
+
+#: includes/admin.php:179 includes/export.php:137
+msgid "Delete"
+msgstr ""
+
+#: includes/admin.php:226
+msgid "Delete All Codes"
+msgstr ""
+
+#: includes/export.php:148
+msgid "Delete All Files"
+msgstr ""
+
+#: includes/admin.php:237
+msgid "Description"
+msgstr ""
+
+#: includes/admin.php:334
+msgid "Don't begin with a number or symbol"
+msgstr ""
+
+#: includes/admin.php:344
+msgid "Don't use characters like i, l, 1, L, o, 0, O, etc."
+msgstr ""
+
+#: includes/admin.php:354
+msgid "Don't use sequential characters, e.g. abc, 789"
+msgstr ""
+
+#: includes/admin.php:349
+msgid "Don't use the same character more than once"
+msgstr ""
+
+#: includes/export.php:133
+msgid "Download"
+msgstr ""
+
+#: includes/export.php:77
+msgid "Download CSV file"
+msgstr ""
+
+#: includes/admin.php:329
+msgid "e.g. 123456"
+msgstr ""
+
+#: includes/admin.php:324
+msgid "e.g. ABCDEFGH"
+msgstr ""
+
+#: includes/admin.php:319
+msgid "e.g. abcdefgh"
+msgstr ""
+
+#: includes/admin.php:303
+msgid ""
+"Ending set of characters for every code. e.g.: -DONUT will generate A32D-"
+"DONUT, D5NZ-DONUT"
+msgstr ""
+
+#: includes/admin.php:462
+msgid ""
+"Ensure that the entered code matches an existing code in the database to "
+"successfully submit the form."
+msgstr ""
+
+#: includes/admin.php:240
+msgid "Enter one invite code per line"
+msgstr ""
+
+#: includes/form-tag.php:37
+msgid "Enter your invite code"
+msgstr ""
+
+#: includes/admin.php:200
+msgid "Entries per page:"
+msgstr ""
+
+#: includes/admin.php:465
+msgid "Example Shortcodes"
+msgstr ""
+
+#: includes/admin.php:162
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/admin.php:254
+msgid "Expiration Date (optional):"
+msgstr ""
+
+#: includes/settings.php:51
+msgid "Expired Invite Code Message"
+msgstr ""
+
+#: includes/admin.php:258
+msgid "Expiry date of the code. Leave empty if no expiry date."
+msgstr ""
+
+#: includes/admin.php:109
+msgid "Expiry date updated successfully."
+msgstr ""
+
+#: includes/admin.php:148 includes/admin.php:442
+msgid "Export"
+msgstr ""
+
+#: includes/admin.php:271 includes/admin.php:275
+msgid "Export Invite Codes"
+msgstr ""
+
+#: includes/admin.php:278
+msgid "Exported Files"
+msgstr ""
+
+#: includes/export.php:71
+msgid "Failed to create CSV file."
+msgstr ""
+
+#: includes/export.php:214
+msgid "Failed to delete the file."
+msgstr ""
+
+#: includes/export.php:80
+msgid "Failed to initialize the file system."
+msgstr ""
+
+#: includes/export.php:212
+msgid "File deleted successfully."
+msgstr ""
+
+#: includes/export.php:118
+msgid "Filename"
+msgstr ""
+
+#: includes/admin.php:453
+msgid "Frontend Usage (Contact Form 7)"
+msgstr ""
+
+#: includes/admin.php:370
+msgid "Generate Codes"
+msgstr ""
+
+#: includes/admin.php:287
+msgid "Generate the codes"
+msgstr ""
+
+#: includes/admin.php:400
+msgid "Generated Codes"
+msgstr ""
+
+#: includes/admin.php:431
+msgid "Guide for Using the \"Invite Codes for Contact Form 7\" Plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Haste"
+msgstr ""
+
+#: includes/admin.php:451
+msgid ""
+"Here you can customize notifications displayed on the form and set whether "
+"the form should treat entered codes as case-sensitive."
+msgstr ""
+
+#: includes/admin.php:158
+msgid "ID"
+msgstr ""
+
+#: includes/admin.php:147 includes/admin.php:439
+msgid "Import"
+msgstr ""
+
+#: includes/admin.php:231 includes/admin.php:261
+msgid "Import Invite Codes"
+msgstr ""
+
+#: includes/admin.php:317
+msgid "Include Lowercase Characters"
+msgstr ""
+
+#: includes/admin.php:327
+msgid "Include Numbers"
+msgstr ""
+
+#: includes/admin.php:337
+msgid "Include Symbols"
+msgstr ""
+
+#: includes/admin.php:339
+msgid "Include symbols: !@^"
+msgstr ""
+
+#: includes/admin.php:322
+msgid "Include Uppercase Characters"
+msgstr ""
+
+#: includes/admin.php:151 includes/admin.php:430
+msgid "Instructions"
+msgstr ""
+
+#: includes/export.php:207
+msgid "Invalid file path for deletion."
+msgstr ""
+
+#: includes/export.php:168
+msgid "Invalid file path."
+msgstr ""
+
+#: includes/settings.php:35
+msgid "Invalid Invite Code Message"
+msgstr ""
+
+#: includes/validation.php:28 includes/settings.php:159
+msgid "Invalid invite code."
+msgstr ""
+
+#: includes/admin.php:76
+msgid "Invisible codes are difficult to import. Enter at least on invite code."
+msgstr ""
+
+#: includes/admin.php:159
+msgid "Invite Code"
+msgstr ""
+
+#: includes/admin.php:100
+msgid "Invite code deleted successfully."
+msgstr ""
+
+#: includes/validation.php:27
+msgid "Invite code is required."
+msgstr ""
+
+#: includes/settings.php:27
+msgid "Invite Code Validation Messages"
+msgstr ""
+
+#. Parent slug
+#. Page title
+#: includes/admin.php:14 includes/admin.php:15 includes/admin.php:144
+#: includes/admin.php:154
+msgid "Invite Codes"
+msgstr ""
+
+#: includes/admin.php:236
+msgid "Invite codes"
+msgstr ""
+
+#: includes/export.php:76
+msgid "Invite codes exported successfully."
+msgstr ""
+
+#. Name of the plugin
+msgid "Invite Codes for Contact Form 7"
+msgstr ""
+
+#: includes/admin.php:91
+msgid "Invite codes imported successfully."
+msgstr ""
+
+#: includes/admin.php:314
+msgid "Length of every unique code (excl. prefix/postfix)"
+msgstr ""
+
+#: includes/admin.php:161
+msgid "Max Usage"
+msgstr ""
+
+#: includes/admin.php:247
+msgid "Maximum usage"
+msgstr ""
+
+#: includes/settings.php:83
+msgid "Message displayed when an invalid invite code is entered."
+msgstr ""
+
+#: includes/settings.php:95
+msgid "Message displayed when an invite code has already been used."
+msgstr ""
+
+#: includes/settings.php:107
+msgid "Message displayed when an invite code has expired."
+msgstr ""
+
+#: includes/export.php:83
+msgid "No codes found to export."
+msgstr ""
+
+#: includes/admin.php:407
+msgid "No codes generated. Please check your settings."
+msgstr ""
+
+#: includes/admin.php:347
+msgid "No Duplicate Characters"
+msgstr ""
+
+#: includes/export.php:64
+msgid "No expiration date"
+msgstr ""
+
+#: includes/export.php:98 includes/export.php:151
+msgid "No export files found."
+msgstr ""
+
+#: includes/export.php:200
+msgid "No file selected for deletion."
+msgstr ""
+
+#: includes/export.php:231
+msgid "No files to delete."
+msgstr ""
+
+#: includes/admin.php:192
+msgid "No invite codes found."
+msgstr ""
+
+#: includes/admin.php:352
+msgid "No Sequential Characters"
+msgstr ""
+
+#: includes/admin.php:342
+msgid "No Similar Characters"
+msgstr ""
+
+#: includes/export.php:12
+msgid "Nonce verification failed."
+msgstr ""
+
+#: includes/admin.php:411
+msgid "Nonce verification failed. Please try again."
+msgstr ""
+
+#: includes/admin.php:251
+msgid "Number of times the code can be used. Use 0 for unlimited usage."
+msgstr ""
+
+#: includes/admin.php:78
+msgid "One or more invite codes you want to import already exist."
+msgstr ""
+
+#: includes/admin.php:48
+msgid "Only users with Administrator rights can access this page."
+msgstr ""
+
+#. placeholder description
+#: includes/admin.php:243
+#, php-format
+msgid ""
+"Paste all the codes you want to use in the form here. %s Enter one invite "
+"code per line."
+msgstr ""
+
+#: invite-codes-for-contact-form-7.php:29
+msgid "Plugin Activation Error"
+msgstr ""
+
+#: includes/admin.php:301
+msgid "Postfix"
+msgstr ""
+
+#: includes/admin.php:296
+msgid "Prefix"
+msgstr ""
+
+#: includes/admin.php:357
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin.php:425
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin.php:286
+msgid "Select your options below"
+msgstr ""
+
+#: includes/admin.php:150 includes/admin.php:419 includes/admin.php:450
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:35
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/admin.php:298
+msgid ""
+"Starting set of characters for every code. e.g.: DONUT- will generate DONUT-"
+"A32D, DONUT-D5NZ"
+msgstr ""
+
+#: includes/admin.php:432
+msgid ""
+"The \"Invite Codes for Contact Form 7\" plugin adds invite code "
+"functionality to Contact Form 7. This guide will walk you through using the "
+"plugin, both on the backend (admin) and frontend (user interface)."
+msgstr ""
+
+#: invite-codes-for-contact-form-7.php:28
+msgid ""
+"The \"Invite Codes for Contact Form 7\" plugin requires the \"Contact Form "
+"7\" plugin to be installed and activated."
+msgstr ""
+
+#: invite-codes-for-contact-form-7.php:42
+msgid ""
+"The \"Invite Codes for Contact Form 7\" plugin requires the \"Contact Form "
+"7\" plugin to be installed and activated. Please install and activate it "
+"first."
+msgstr ""
+
+#: includes/admin.php:437
+msgid ""
+"The Codes tab displays a list of all created codes. Here you can see the "
+"status of each code and the expiration date. In this screen, you can delete "
+"individual codes one by one and update their expiration dates."
+msgstr ""
+
+#: includes/admin.php:461
+msgid "The field will automatically be validated upon form submission."
+msgstr ""
+
+#: includes/admin.php:440
+msgid ""
+"The Import tab allows you to import codes. Enter one code per line, choose "
+"an expiration date (optional), and click Import Invite Codes. The import "
+"module is tested up to 1000 codes at a time."
+msgstr ""
+
+#: includes/settings.php:80
+msgid "The invite code you entered is invalid."
+msgstr ""
+
+#: includes/validation.php:29 includes/settings.php:92
+#: includes/settings.php:162
+msgid "This invite code has already been used."
+msgstr ""
+
+#: includes/validation.php:30 includes/settings.php:104
+#: includes/settings.php:165
+msgid "This invite code has expired."
+msgstr ""
+
+#: includes/settings.php:122
+msgid ""
+"Tick this box if you want the invite code entered on the form to be case "
+"sensitive."
+msgstr ""
+
+#: includes/admin.php:160
+msgid "Times Used"
+msgstr ""
+
+#: includes/admin.php:306
+msgid "Unique Code Length"
+msgstr ""
+
+#: includes/admin.php:185
+msgid "Update Expiry Date"
+msgstr ""
+
+#: includes/admin.php:443
+msgid ""
+"Use this function to export imported codes to a CSV file. The export also "
+"includes the status and expiration date for each code."
+msgstr ""
+
+#: includes/admin.php:470
+msgid "Use with a label, required input, and custom placeholder."
+msgstr ""
+
+#: includes/admin.php:467
+msgid ""
+"Use without a label and required input, and default placeholder \"Enter your "
+"invite code\"."
+msgstr ""
+
+#: includes/settings.php:43
+msgid "Used Invite Code Message"
+msgstr ""
+
+#: includes/admin.php:455
+msgid "Using Invite Codes in Forms"
+msgstr ""
+
+#: includes/admin.php:33
+msgid "Validation message fields cannot be empty."
+msgstr ""
+
+#: includes/admin.php:447
+msgid ""
+"With the Codes Generator, you can generate unique codes in one go based on "
+"selected specifications."
+msgstr ""
